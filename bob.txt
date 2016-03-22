@@ -1,1 +1,2 @@
 name: bob
+email: bob@foo.com
