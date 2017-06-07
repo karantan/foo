@@ -1,5 +1,5 @@
-### Expected behaviour
+As a [persona],
 
-### Actual behaviour
+I want [???],
 
-### Steps to reproduce the behaviour
+so that [I can achieve some goal/value/benfit].
